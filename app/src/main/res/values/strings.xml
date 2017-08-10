@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WEMOTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="deviceDetailsNotYetAvailable">Device details not yet available</string>
+</resources>
